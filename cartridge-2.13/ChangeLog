@@ -1,0 +1,123 @@
+commit 6d6e5e361db62377a8295f97916edf43aa754a77
+Author: Mark Stephen Sobkow <msobkow@sasktel.net>
+Date:   Thu May 14 07:23:04 2020 -0600
+
+    2020-05-14 MSS Code Factory CFAll 2.13.11189 Manufactured by 2.12.11188 Most of the 2.13 projects are now under GPLv3 except cartridges and models
+    
+    The 2.13 CFLib and CFCore projects are under the GNU Lesser General Public License, Version 3
+    or later, with an option for commercial licensing by contacting Mark Stephen Sobkow
+    via msobkow@sasktel.net.
+    
+    The foundation projects upon which most applications are built include CFSec, CFInt, and CFCrm
+    2.13.  These three projects are under an Apache Version 2 license to allow anyone who uses the
+    tool to use a SchemaRef to incorporate those projects as a foundation upon which to build.
+    
+    The remaining 2.13 projects are under GNU General Public License, Version 3 or later, with
+    an option to purchase commercial rights.  See the project welcome page for licensing fees and
+    options.
+    
+    Even the knowledge base of rule cartridges is under the GPLv3 with commercial
+    option for 2.13, as are all of the 2.14 application models.  You really shouldn't
+    be using 2.13 to produce 2.14 code, as 2.14 doesn't even have CFLib or CFCore
+    ported yet.  I haven't even created github repositories for those projects.
+    
+    You should be using 2.12 and 2.13 models as your base for building applications.
+    
+    This is a github-only release that will trickle out for the remainder of today as I verify
+    that each project is "license clean" before pushing the properly licensed code to github.  I
+    want no traces of old license terms hiding away if I can help it.
+
+commit f6b4493677a9fd28f0cec3588240e2f7f031447c
+Author: Mark Stephen Sobkow <msobkow@sasktel.net>
+Date:   Thu May 14 07:21:22 2020 -0600
+
+    2020-05-14 MSS Code Factory CFAll 2.13.11189 Manufactured by 2.12.11188 Most of the 2.13 projects are now under GPLv3 except cartridges and models
+    
+    The 2.13 CFLib and CFCore projects are under the GNU Lesser General Public License, Version 3
+    or later, with an option for commercial licensing by contacting Mark Stephen Sobkow
+    via msobkow@sasktel.net.
+    
+    The foundation projects upon which most applications are built include CFSec, CFInt, and CFCrm
+    2.13.  These three projects are under an Apache Version 2 license to allow anyone who uses the
+    tool to use a SchemaRef to incorporate those projects as a foundation upon which to build.
+    
+    The remaining 2.13 projects are under GNU General Public License, Version 3 or later, with
+    an option to purchase commercial rights.  See the project welcome page for licensing fees and
+    options.
+    
+    Even the knowledge base of rule cartridges is under the GPLv3 with commercial
+    option for 2.13, as are all of the 2.14 application models.  You really shouldn't
+    be using 2.13 to produce 2.14 code, as 2.14 doesn't even have CFLib or CFCore
+    ported yet.  I haven't even created github repositories for those projects.
+    
+    You should be using 2.12 and 2.13 models as your base for building applications.
+    
+    This is a github-only release that will trickle out for the remainder of today as I verify
+    that each project is "license clean" before pushing the properly licensed code to github.  I
+    want no traces of old license terms hiding away if I can help it.
+
+commit 96699dd9f976b768df2921cc25ff23799cd6f534
+Author: Mark Stephen Sobkow <msobkow@sasktel.net>
+Date:   Thu May 14 07:17:44 2020 -0600
+
+    2020-05-14 MSS Code Factory CFAll 2.13.11189 Manufactured by 2.12.11188 Most of the 2.13 projects are now under GPLv3 except cartridges and models
+    
+    The 2.13 CFLib and CFCore projects are under the GNU Lesser General Public License, Version 3
+    or later, with an option for commercial licensing by contacting Mark Stephen Sobkow
+    via msobkow@sasktel.net.
+    
+    The foundation projects upon which most applications are built include CFSec, CFInt, and CFCrm
+    2.13.  These three projects are under an Apache Version 2 license to allow anyone who uses the
+    tool to use a SchemaRef to incorporate those projects as a foundation upon which to build.
+    
+    The remaining 2.13 projects are under GNU General Public License, Version 3 or later, with
+    an option to purchase commercial rights.  See the project welcome page for licensing fees and
+    options.
+    
+    Even the knowledge base of rule cartridges is under the GPLv3 with commercial
+    option for 2.13, as are all of the 2.14 application models.  You really shouldn't
+    be using 2.13 to produce 2.14 code, as 2.14 doesn't even have CFLib or CFCore
+    ported yet.  I haven't even created github repositories for those projects.
+    
+    You should be using 2.12 and 2.13 models as your base for building applications.
+    
+    This is a github-only release that will trickle out for the remainder of today as I verify
+    that each project is "license clean" before pushing the properly licensed code to github.  I
+    want no traces of old license terms hiding away if I can help it.
+
+commit d9a80dedf8a7695dc36bf4d672ebad9428afef85
+Author: Mark Stephen Sobkow <msobkow@sasktel.net>
+Date:   Thu May 14 06:19:43 2020 -0600
+
+    2020-05-14 MSS Code Factory CFAll 2.13.11189 Manufactured by 2.12.11188 Most of the 2.13 projects are now under GPLv3 except cartridges and models
+    
+    The 2.13 CFLib and CFCore projects are under the GNU Lesser General Public License, Version 3
+    or later, with an option for commercial licensing by contacting Mark Stephen Sobkow
+    via msobkow@sasktel.net.
+    
+    The knowledge base of rule cartridges are under the LGPLv3 with commercial
+    option, as users should be able to write their own cartridges extending the tool's
+    provided they don't modify the tool's cartridges to do so.  I interpret a rule cartridge
+    in a knowledge base as being a "library" of rules, and the knowledge base that I ship with
+    the tool is the "system library" on which I expect most users to build.
+    
+    The models in the 2.13 release for the 2.14 projects are all under GPLv3/Commercial licenses,
+    because you should be using 2.12 and 2.13 models as your base for building applications.
+    
+    The foundation projects upon which most applications are built include CFSec, CFInt, and CFCrm
+    2.13.  These three projects are under an Apache Version 2 license to allow anyone who uses the
+    tool to use a SchemaRef to incorporate those projects as a foundation upon which to build.
+    
+    The remaining 2.13 projects are under GNU General Public License, Version 3 or later, with
+    an option to purchase commercial rights.  See the project welcome page for licensing fees and
+    options.
+    
+    This is a github-only release that will trickle out for the remainder of today as I verify
+    that each project is "license clean" before pushing the properly licensed code to github.  I
+    want no traces of old license terms hiding away if I can help it.
+
+commit 50dd7ddb1c0fd900125cd2494c7367d33333c915
+Author: Mark Stephen Sobkow <msobkow@sasktel.net>
+Date:   Wed May 13 09:09:40 2020 -0600
+
+    Initial commit
