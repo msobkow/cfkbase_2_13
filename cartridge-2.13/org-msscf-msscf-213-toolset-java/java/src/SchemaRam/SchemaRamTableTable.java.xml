@@ -57,7 +57,7 @@
 			GenerateOnce="false"
 		ModuleName="$reference ManufacturingSchema lower JavaPackage$.$reference ManufacturingSchema SchemaName$Ram"
 		SourceBundle="java"
-		BasePackageName="$reference ManufacturingSchema lower PackageName$ram.src"
+		BasePackageName="$reference ManufacturingSchema lower PackageName$ram/src/main"
 		SubPackageName="$reference ManufacturingSchema lower JavaPackage$.$reference ManufacturingSchema SchemaName$Ram"
 		ExpansionClassName="$SchemaName$Ram$TableName$TableJava"
 		ExpansionKeyName="$SchemaName$Ram$TableName$TableJava"

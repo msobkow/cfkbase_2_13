@@ -54,7 +54,7 @@
 			GenerateOnce="false"
 		ModuleName="$reference ManufacturingSchema lower JavaPackage$"
 		SourceBundle="java"
-		BasePackageName="$reference ManufacturingSchema lower PackageName$.src"
+		BasePackageName="$reference ManufacturingSchema lower PackageName$/src/main"
 		SubPackageName="$reference ManufacturingSchema lower JavaPackage$.$reference ManufacturingSchema SchemaName$Obj"
 		ExpansionClassName="I$SchemaName$$TableName$EditObjJava"
 		ExpansionKeyName="I$SchemaName$$TableName$EditObjJava"
