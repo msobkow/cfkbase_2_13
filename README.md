@@ -14,4 +14,4 @@ Mark Stephen Sobkow's Internal Knowledge Base is distributed in the hope
 that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
 warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-Please contact Mark Stephen Sobkow at msobkow@sasktel.net for commercial licensing.
+Please contact Mark Stephen Sobkow at mark.sobkow@gmail.com for commercial licensing.
